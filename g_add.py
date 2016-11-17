@@ -31,5 +31,5 @@ while True:
     time.sleep(5)
   except Exception, e:
     print 'ERRO:', str(e)
-    bro.get('https://www.facebook.com/groups/alfenasmg/members/')
+    bro.get('https://www.facebook.com/groups/..../members/')
     time.sleep(6)
